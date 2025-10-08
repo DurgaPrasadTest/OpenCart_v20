@@ -1,0 +1,57 @@
+21:47:12.132 [main] INFO  testCases.TC002_Login - ****** Click on My Account Page *******
+21:47:12.234 [main] INFO  testCases.TC002_Login - ****** Click on Login Page *******
+21:47:12.549 [main] INFO  testCases.TC002_Login - ****** Enter user details for login *******
+21:47:12.687 [main] INFO  testCases.TC002_Login - ****** Click on login buttom *******
+21:47:13.520 [main] INFO  testCases.TC002_Login - ****** Login Successful *******
+21:47:13.550 [main] INFO  testCases.TC002_Login - ****** Login Page Test Ends *******
+21:51:30.892 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml"
+21:51:31.149 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml
+
+21:51:34.976 [main] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+21:51:35.040 [main] INFO  testCases.TC001_AccountRegistration - ****** Click on My Registration Page *******
+21:51:35.562 [main] INFO  testCases.TC001_AccountRegistration - ****** Enter User details for account creation *******
+21:51:36.006 [main] INFO  testCases.TC001_AccountRegistration - ****** Submit the form with user details *******
+21:51:37.205 [main] INFO  testCases.TC001_AccountRegistration - ****** Account Successfully completed *******
+21:51:40.224 [main] INFO  testCases.TC002_Login - ******Login Page Test Starts.... *******
+21:51:40.224 [main] INFO  testCases.TC002_Login - ****** Click on My Account Page *******
+21:51:40.306 [main] INFO  testCases.TC002_Login - ****** Click on Login Page *******
+21:51:40.575 [main] INFO  testCases.TC002_Login - ****** Enter user details for login *******
+21:51:40.701 [main] INFO  testCases.TC002_Login - ****** Click on login buttom *******
+21:51:41.296 [main] INFO  testCases.TC002_Login - ****** Login Successful *******
+21:54:06.378 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\test-output\testng-failed.xml"
+21:54:06.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\test-output\testng-failed.xml
+
+21:54:10.112 [main] INFO  testCases.TC002_Login - ******Login Page Test Starts.... *******
+21:54:10.112 [main] INFO  testCases.TC002_Login - ****** Click on My Account Page *******
+21:54:10.179 [main] INFO  testCases.TC002_Login - ****** Click on Login Page *******
+21:54:10.466 [main] INFO  testCases.TC002_Login - ****** Enter user details for login *******
+21:54:10.597 [main] INFO  testCases.TC002_Login - ****** Click on login buttom *******
+21:54:11.155 [main] INFO  testCases.TC002_Login - ****** Login Successful *******
+14:30:26.963 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+14:30:27.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+14:30:35.405 [main] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+14:30:35.537 [main] INFO  testCases.TC001_AccountRegistration - ****** Click on My Registration Page *******
+14:30:36.283 [main] INFO  testCases.TC001_AccountRegistration - ****** Enter User details for account creation *******
+14:30:36.830 [main] INFO  testCases.TC001_AccountRegistration - ****** Submit the form with user details *******
+14:30:39.631 [main] INFO  testCases.TC001_AccountRegistration - ****** Account Successfully completed *******
+14:32:36.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+14:32:36.491 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+14:32:40.470 [main] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+14:32:40.616 [main] INFO  testCases.TC001_AccountRegistration - ****** Click on My Registration Page *******
+14:32:41.106 [main] INFO  testCases.TC001_AccountRegistration - ****** Enter User details for account creation *******
+14:32:42.080 [main] INFO  testCases.TC001_AccountRegistration - ****** Submit the form with user details *******
+14:32:42.998 [main] INFO  testCases.TC001_AccountRegistration - ****** Account Successfully completed *******
+14:33:35.393 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\crossbrowse.xml"
+14:33:35.727 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\crossbrowse.xml
+
+14:33:39.677 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+14:33:39.809 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Click on My Registration Page *******
+14:33:40.277 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Enter User details for account creation *******
+14:33:41.652 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Submit the form with user details *******

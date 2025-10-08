@@ -1,0 +1,52 @@
+18:01:41.093 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:01:41.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:01:41.099 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:01:41.114 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:01:41.115 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:01:41.117 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:01:41.131 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:01:41.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:01:41.133 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:01:41.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:01:41.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:01:41.150 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:01:41.172 [main] INFO  testCases.TC003_LoginDataDrivenTest - ******Login DataDrivern Test Starts.... *******
+18:01:42.787 [main] INFO  testCases.TC003_LoginDataDrivenTest - ******Login DataDrivern Test ends.... *******
+18:01:42.790 [main] INFO  testCases.TC003_LoginDataDrivenTest - ******Login DataDrivern Test Starts.... *******
+18:02:03.632 [main] INFO  testCases.TC003_LoginDataDrivenTest - ******Login DataDrivern Test Starts.... *******
+20:11:53.040 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml"
+20:11:53.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml
+
+20:12:55.335 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml"
+20:12:55.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml
+
+20:13:00.886 [main] INFO  testCases.TC002_Login - ******Login Page Test Starts.... *******
+20:13:00.886 [main] INFO  testCases.TC002_Login - ****** Click on My Account Page *******
+20:13:00.996 [main] INFO  testCases.TC002_Login - ****** Click on Login Page *******
+20:13:01.189 [main] INFO  testCases.TC002_Login - ****** Enter user details for login *******
+20:13:01.338 [main] INFO  testCases.TC002_Login - ****** Click on login buttom *******
+20:13:02.076 [main] INFO  testCases.TC002_Login - ****** Login Successful *******
+20:13:02.110 [main] INFO  testCases.TC002_Login - ****** Login Page Test Ends *******
+20:19:38.429 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml"
+20:19:38.661 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml
+
+20:19:41.477 [main] INFO  testCases.TC002_Login - ******Login Page Test Starts.... *******
+20:19:41.477 [main] INFO  testCases.TC002_Login - ****** Click on My Account Page *******
+20:19:41.547 [main] INFO  testCases.TC002_Login - ****** Click on Login Page *******
+20:19:41.744 [main] INFO  testCases.TC002_Login - ****** Enter user details for login *******
+20:19:41.907 [main] INFO  testCases.TC002_Login - ****** Click on login buttom *******
+20:19:42.513 [main] INFO  testCases.TC002_Login - ****** Login Successful *******
+20:19:42.546 [main] INFO  testCases.TC002_Login - ****** Login Page Test Ends *******
+21:46:58.230 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml"
+21:46:58.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\grouping.xml
+
+21:47:06.593 [main] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+21:47:06.679 [main] INFO  testCases.TC001_AccountRegistration - ****** Click on My Registration Page *******
+21:47:07.249 [main] INFO  testCases.TC001_AccountRegistration - ****** Enter User details for account creation *******
+21:47:07.706 [main] INFO  testCases.TC001_AccountRegistration - ****** Submit the form with user details *******
+21:47:08.812 [main] INFO  testCases.TC001_AccountRegistration - ****** Account Successfully completed *******
+21:47:12.132 [main] INFO  testCases.TC002_Login - ******Login Page Test Starts.... *******

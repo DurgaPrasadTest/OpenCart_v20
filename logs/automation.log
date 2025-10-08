@@ -1,0 +1,26 @@
+14:33:42.533 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Account Successfully completed *******
+14:33:42.990 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+15:30:01.932 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+15:30:02.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+15:31:00.179 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+15:31:00.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+15:32:59.277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+15:32:59.523 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+15:33:02.603 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+15:33:03.062 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+15:34:01.090 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+15:34:01.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+15:34:04.845 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+17:29:15.123 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+17:29:20.725 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+20:24:27.334 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+20:24:31.883 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+20:24:32.354 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
