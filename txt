@@ -1,2 +1,49 @@
-abcscsd....
-sdfghsdfgsdf
+Pre-rquiisties
+--------------
+1. Git installation
+2. Crate an account with GitHub and create remote repository
+
+Git and GitHub Workflow
+------------------------
+
+Round 1
+
+1. Create a new local repository ( One time )
+
+git init
+
+2. Provide User info to git repo (One time)
+
+git config --global user.name "your name"
+git config --global user.email "your email"
+
+3. git status (for status checking)
+
+4. Adding files/floders to stagging/indexing
+
+git add -A (Add all files and floders to stagging)
+git add filename
+git add *.java
+git add flodername
+
+5. Commit the code into Local(git) repository
+
+git commit -m "commit message"
+
+6. connet local repository with remote repository (One Time)
+ 
+ git remote add origin "url"
+ 
+ 7.  Push the code into remote repository
+ 
+ git push origin master
+ 
+ Pull files from remote repository
+ -------------------------------------
+ 
+ git pull "remote URL"
+ 
+ clone new repository to local system
+ ---------------------------------------
+ 
+ git clone "remote URL"
