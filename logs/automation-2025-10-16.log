@@ -1,0 +1,57 @@
+14:33:42.533 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Account Successfully completed *******
+14:33:42.990 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+15:30:01.932 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+15:30:02.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+15:31:00.179 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+15:31:00.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+15:32:59.277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+15:32:59.523 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+15:33:02.603 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+15:33:03.062 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+15:34:01.090 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+15:34:01.306 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+15:34:04.845 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+17:29:15.123 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+17:29:20.725 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+20:24:27.334 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+20:24:31.883 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+20:24:32.354 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+20:58:27.939 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+20:58:34.136 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+20:58:34.748 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+21:00:03.875 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\crossbrowse.xml"
+21:00:04.170 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\crossbrowse.xml
+
+21:00:07.880 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+21:00:07.965 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Click on My Registration Page *******
+21:00:08.329 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Enter User details for account creation *******
+21:00:09.150 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Submit the form with user details *******
+21:00:10.292 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - ****** Account Successfully completed *******
+21:00:10.590 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+21:00:51.993 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - ****** Click on My Account Page *******
+21:00:52.105 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - ****** Click on My Registration Page *******
+21:00:52.582 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - ****** Enter User details for account creation *******
+21:00:52.915 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - ****** Submit the form with user details *******
+21:00:53.647 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - ****** Account Successfully completed *******
+21:11:48.439 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+21:11:48.774 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+21:11:54.164 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+21:11:54.622 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+21:15:06.815 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+21:15:07.071 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+21:15:10.162 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+21:15:10.637 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+21:20:09.246 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
