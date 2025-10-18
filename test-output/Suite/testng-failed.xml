@@ -11,8 +11,8 @@
       <class name="testCases.TC004_SearchProduct">
         <methods>
           <include name="setup"/>
-          <include name="Verifyaddproduttocart"/>
           <include name="teardown"/>
+          <include name="Verifyaddproduttocart"/>
         </methods>
       </class> <!-- testCases.TC004_SearchProduct -->
     </classes>

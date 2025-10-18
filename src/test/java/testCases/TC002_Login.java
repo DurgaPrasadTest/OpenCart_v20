@@ -22,7 +22,7 @@ public class TC002_Login extends BaseClass {
 		logger.info("****** Enter user details for login *******");
 		LoginPage login=new LoginPage(driver);
 		login.Eemail(P.getProperty("username"));
-		login.Epassword(P.getProperty("password1"));
+		login.Epassword(P.getProperty("password"));
 		logger.info("****** Click on login buttom *******");
 		login.clickonlogin();
 		logger.info("****** Login Successful *******");

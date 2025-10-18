@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-16T21:35:58 IST" name="Suite" finished-at="2025-10-16T21:36:05 IST" duration-ms="6768">
+  <suite started-at="2025-10-18T12:06:09 IST" name="Suite" finished-at="2025-10-18T12:06:17 IST" duration-ms="8405">
     <groups>
+      <group name="regression">
+        <method signature="TC002_Login.verifyLogin()[pri:0, instance:testCases.TC002_Login@1b065145]" name="verifyLogin" class="testCases.TC002_Login"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC002_Login.verifyLogin()[pri:0, instance:testCases.TC002_Login@1b065145]" name="verifyLogin" class="testCases.TC002_Login"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="TC002_Login.verifyLogin()[pri:0, instance:testCases.TC002_Login@1b065145]" name="verifyLogin" class="testCases.TC002_Login"/>
+      </group> <!-- sanity -->
     </groups>
-    <test started-at="2025-10-16T21:35:58 IST" name="Test" finished-at="2025-10-16T21:36:05 IST" duration-ms="6768">
-      <class name="testCases.TC004_SearchProduct">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_SearchProduct@11eadcba]" started-at="2025-10-16T21:35:58 IST" name="setup" finished-at="2025-10-16T21:36:02 IST" duration-ms="3719" status="PASS">
+    <test started-at="2025-10-18T12:06:09 IST" name="Test" finished-at="2025-10-18T12:06:17 IST" duration-ms="8405">
+      <class name="testCases.TC002_Login">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Login@1b065145]" started-at="2025-10-18T12:06:09 IST" name="setup" finished-at="2025-10-18T12:06:12 IST" duration-ms="2641" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,11 +32,37 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifysearchpage()[pri:1, instance:testCases.TC004_SearchProduct@11eadcba]" started-at="2025-10-16T21:36:02 IST" name="verifysearchpage" finished-at="2025-10-16T21:36:03 IST" duration-ms="624" status="PASS">
+        <test-method signature="verifyLogin()[pri:0, instance:testCases.TC002_Login@1b065145]" started-at="2025-10-18T12:06:12 IST" name="verifyLogin" finished-at="2025-10-18T12:06:13 IST" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC002_Login@1b065145]" started-at="2025-10-18T12:06:13 IST" name="teardown" finished-at="2025-10-18T12:06:13 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.TC002_Login -->
+      <class name="testCases.TC004_SearchProduct">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_SearchProduct@654d8173]" started-at="2025-10-18T12:06:13 IST" name="setup" finished-at="2025-10-18T12:06:15 IST" duration-ms="2187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifysearchpage()[pri:1, instance:testCases.TC004_SearchProduct@654d8173]" started-at="2025-10-18T12:06:15 IST" name="verifysearchpage" finished-at="2025-10-18T12:06:16 IST" duration-ms="398" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifysearchpage -->
-        <test-method signature="Verifyaddproduttocart()[pri:2, instance:testCases.TC004_SearchProduct@11eadcba]" started-at="2025-10-16T21:36:03 IST" name="Verifyaddproduttocart" finished-at="2025-10-16T21:36:04 IST" duration-ms="1540" status="FAIL">
+        <test-method signature="Verifyaddproduttocart()[pri:2, instance:testCases.TC004_SearchProduct@654d8173]" started-at="2025-10-18T12:06:16 IST" name="Verifyaddproduttocart" finished-at="2025-10-18T12:06:17 IST" duration-ms="1234" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Success: You have added iPod Nano to your shopping cart! ×] but found [Success: You have added iPod Nano to your shopping cart!
@@ -75,7 +110,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Verifyaddproduttocart -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC004_SearchProduct@11eadcba]" started-at="2025-10-16T21:36:04 IST" name="teardown" finished-at="2025-10-16T21:36:05 IST" duration-ms="259" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC004_SearchProduct@654d8173]" started-at="2025-10-18T12:06:17 IST" name="teardown" finished-at="2025-10-18T12:06:17 IST" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

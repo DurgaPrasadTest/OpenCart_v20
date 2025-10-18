@@ -33,3 +33,34 @@
 
 21:36:02.639 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
 21:36:03.251 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+12:02:03.128 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+12:02:03.394 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+12:02:07.752 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+12:02:08.216 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+12:04:42.517 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+12:04:42.771 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+12:04:45.673 [main] INFO  testCases.TC002_Login - ******Login Page Test Starts.... *******
+12:04:45.673 [main] INFO  testCases.TC002_Login - ****** Click on My Account Page *******
+12:04:45.796 [main] INFO  testCases.TC002_Login - ****** Click on Login Page *******
+12:04:46.034 [main] INFO  testCases.TC002_Login - ****** Enter user details for login *******
+12:04:46.231 [main] INFO  testCases.TC002_Login - ****** Click on login buttom *******
+12:04:46.782 [main] INFO  testCases.TC002_Login - ****** Login Successful *******
+12:04:59.386 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+12:04:59.789 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
+12:06:09.200 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml"
+12:06:09.436 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace-New\OpenCart_v20\master.xml
+
+12:06:12.308 [main] INFO  testCases.TC002_Login - ******Login Page Test Starts.... *******
+12:06:12.308 [main] INFO  testCases.TC002_Login - ****** Click on My Account Page *******
+12:06:12.433 [main] INFO  testCases.TC002_Login - ****** Click on Login Page *******
+12:06:12.646 [main] INFO  testCases.TC002_Login - ****** Enter user details for login *******
+12:06:12.835 [main] INFO  testCases.TC002_Login - ****** Click on login buttom *******
+12:06:13.496 [main] INFO  testCases.TC002_Login - ****** Login Successful *******
+12:06:13.537 [main] INFO  testCases.TC002_Login - ****** Login Page Test Ends *******
+12:06:15.908 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Starts.... *******
+12:06:16.306 [main] INFO  testCases.TC004_SearchProduct - ******Search Test Ends.... *******
